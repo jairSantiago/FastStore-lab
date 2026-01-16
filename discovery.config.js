@@ -93,6 +93,6 @@ module.exports = {
   },
 
   vtexHeadlessCms: {
-    webhookUrls: ["https://newstore.myvtex.com/cms-releases/webhook-releases"],
+    webhookUrls: ["https://albertodemo.myvtex.com/cms-releases/webhook-releases"],
   },
 };
